@@ -8,6 +8,8 @@ This does not exist yet
 
 But it should.
 
+Look at [these cool frontends](http://rstudio.github.com/shiny/tutorial/#tabsets).
+
 Shiny can be web-hosted.  It requires Node 0.8.16, R 2.15, and the `shiny` R package.
 
 Some arts-and-crafts weekend, glue these together:
