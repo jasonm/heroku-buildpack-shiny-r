@@ -22,3 +22,7 @@ Some arts-and-crafts weekend, glue these together:
 * Run node apps on Heroku
   * [heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs)
   * [heroku-nodejs-binary-buildpack](https://github.com/arunoda/heroku-nodejs-binary-buildback)
+* Run Rook (Rack in R) apps on Heroku
+  * [rookonheroku](https://github.com/noahhl/rookonheroku)
+  * [discussion of rook buildpack](https://github.com/noahhl/rookonheroku/issues/2)
+
